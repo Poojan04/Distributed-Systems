@@ -1,0 +1,5 @@
+equivalent: alike, equal, identical,even,copy,alike,analogous
+dangerous:  adverse, bad, baleful, baneful, damaging, harmful, deleterious, detrimental, evil, hurtful
+safe:  guarding, protecting, safeguarding, sheltering, shielding; defended, guarded
+habit: custom, fashion, habitude, pattern, practice
+happy: pleasant,delighted,glad,content,chirpy,content,jolly,overjoyed
